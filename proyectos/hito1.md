@@ -8,7 +8,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | A. C. EMILIO | <!--enlace-->                                                           | <!--versión--> |
 | A. S. JESUS | <!--enlace-->                                                           | <!--versión--> |
 | B. A. AARON | <!--enlace-->                                                           | <!--versión--> |
-| B. A. MARIO | <!--enlace-->                                                           | <!--versión--> |
+| B. A. MARIO | [<!--enlace-->](https://github.com/mariobosquee/CC-25-26)                | <!--versión--> |
 | C. C. FRANCISCO DE ASIS | <!--enlace-->                                                           | <!--versión--> |
 | C. R. JORGE ARLEY | <!--enlace-->                                                           | <!--versión--> |
 | C. BO | <!--enlace-->                                                           | <!--versión--> |
