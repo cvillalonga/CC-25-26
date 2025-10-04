@@ -4,7 +4,7 @@
 Supermerc-App
 
 ## Autor
-- Anas Tahi
+- Anas Tahir
 
 ## Resumen
 Este proyecto consiste en una aplicación de gestión de supermercado basada en microservicios. 
