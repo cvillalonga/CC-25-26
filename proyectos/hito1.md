@@ -29,7 +29,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. M. JESUS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | M. S. DAVID | <!--enlace-->                                                           | <!--versión--> |
 | P. C. BENIGNO JOAQUIN | <!--enlace-->                                                           | <!--versión--> |
-| P. FLAVIO FILIPPO | <!--enlace-->                                                           | <!--versión--> |
+| P. FLAVIO FILIPPO | https://github.com/Fjavio/CC_Flavio_project/blob/master/README.md           | 1.0 |
 | P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--versión--> |
 | P. N. DANIEL | <!--enlace-->                                                           | <!--versión--> |
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
