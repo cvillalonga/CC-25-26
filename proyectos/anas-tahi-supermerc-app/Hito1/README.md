@@ -1,4 +1,4 @@
-# Hito 1 — Definición del proyecto
+## Hito 1 — Definición del proyecto
 
 ## Título del proyecto
 Comprasmart
@@ -50,4 +50,5 @@ Comprasmart
 - **Hito 3:** Diseño e implementación de microservicios para productos y supermercados.  
 - **Hito 4:** Composición de servicios y pruebas de integración.  
 - **Hito 5:** Despliegue de la aplicación en una plataforma en la nube.
+
 
