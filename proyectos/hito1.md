@@ -15,7 +15,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
 | D. G. TEODOSIO | <!--enlace-->                                                           | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
-| G. R. MANUEL | https://github.com/Manuelgruiz/ StayTrack                                                          | 0.0.0|
+| G. R. MANUEL | https://github.com/Manuelgruiz/StayTrack                                                          | 0.0.0|
 | G. L. FELIPE | <!--enlace-->                                                           | <!--versión--> |
 | G. R. CARLOS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--versión--> |
