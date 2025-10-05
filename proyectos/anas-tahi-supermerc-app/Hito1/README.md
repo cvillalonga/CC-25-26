@@ -1,52 +1,53 @@
 # Hito 1 — Definición del proyecto
 
 ## Título del proyecto
-Supermerc-App
+Comprasmart
 
 ## Autor
 - Anas Tahir
 
-## Resumen
-Este proyecto consiste en una aplicación de gestión de supermercado basada en microservicios. 
-Permitirá gestionar productos, clientes y pedidos. El objetivo es aprender a desplegar 
-y escalar aplicaciones en la nube aplicando integración continua, contenedores y despliegue 
-en un PaaS.
+## Descripción del Proyecto
+- CompraSmart es una aplicación web desarrollada con React (frontend), Node.js (backend) y MongoDB (base de datos).
+- Permite a los usuarios comparar el precio de los productos entre diferentes supermercados de Granada o de toda España.
+- La aplicación ayuda a los usuarios a encontrar el supermercado con el precio más barato para cada producto.
+- Al final la aplicación se desplegará en una plataforma en la nube para hacerla accesible en línea y escalable.
+
 
 ## Objetivos
-- Construir un backend de microservicios que gestione productos, clientes y pedidos.
-- Desplegar la aplicación usando contenedores Docker.
-- Automatizar tests y despliegue mediante CI/CD en GitHub Actions.
-- Publicar el servicio en un PaaS gratuito.
+- Ayudar a las personas que llegan por primera vez a Granada o España a encontrar fácilmente los productos más baratos.
+- Permitir a todos, especialmente a los estudiantes, comprar lo que necesitan al precio más bajo posible.
+- Construir una aplicación web funcional utilizando tecnologías modernas (React, Node.js, MongoDB).
+- Aprender y aplicar técnicas de despliegue en la nube para hacer que la aplicación sea accesible en Internet.
 
-## Requisitos funcionales
-- RF1: Crear, listar, actualizar y eliminar productos.
-- RF2: Gestionar clientes.
-- RF3: Crear y consultar pedidos.
+## Requisitos Funcionales (RF)
+- Los usuarios pueden buscar un producto y ver los precios en varios supermercados.
+- La aplicación muestra qué supermercado ofrece el precio más bajo para el producto elegido.
+- Los usuarios pueden filtrar por ubicación o por supermercado para obtener resultados más específicos.
+- En el futuro , el sistema podrá ampliarse para incluir más supermercados a nivel nacional, no solo unos pocos.
 
-## Requisitos no funcionales
-- RNF1: Escalabilidad horizontal mediante contenedores.
-- RNF2: Observabilidad básica (logs).
-- RNF3: Tolerancia a fallos (varias réplicas).
+## Requisitos No Funcionales (RNF) :
+- La aplicación debe ser responsiva y funcionar correctamente tanto en ordenadores como en dispositivos móviles.
+- Tiempos de carga rápidos, incluso al comparar muchos productos y supermercados.
+- Manejo seguro de los datos de los usuarios (en caso de que se agreguen cuentas de usuario más adelante).
+- La aplicación se desplegará en una plataforma en la nube para asegurar su disponibilidad y accesibilidad.
 
-## Tecnologías propuestas
-- Backend: Python (FastAPI)
-- Base de datos: MongoDB
-- Contenedores: Docker
-- Orquestación: Docker Compose (dev), Kubernetes (demo)
-- CI/CD: GitHub Actions
-- PaaS target: Render o Heroku
+## Tecnologías Propuestas :
+- **Frontend:** React.js para construir una interfaz de usuario moderna y responsiva.  
+- **Backend:** Node.js con Express.js para gestionar la lógica y las peticiones del servidor.  
+- **Base de Datos:** MongoDB para almacenar productos, precios y supermercados.  
+- **Despliegue:** Plataforma en la nube (por definir) para hacer la aplicación accesible y escalable.  
+- **Control de Versiones:** Git y GitHub para la gestión del código y la colaboración.  
 
-## Arquitectura inicial
-- API Gateway (FastAPI) → Microservicios (productos, clientes, pedidos) → MongoDB
-- Despliegue inicial con Docker Compose.
+## Arquitectura Inicial :
+- Los usuarios interactúan con la aplicación web desde un navegador (frontend en React).  
+- El frontend se comunica con el backend (Node.js + Express) mediante peticiones API.  
+- El backend obtiene los datos de productos y supermercados desde MongoDB.  
+- Y toda la aplicación se desplegará en una plataforma en la nube para hacerla accesible y escalable.  
 
-## Plan de hitos
-- Hito 1: Definición del proyecto
-- Hito 2: Integración continua
-- Hito 3: Diseño de microservicios
-- Hito 4: Composición de servicios
-- Hito 5: Despliegue en PaaS
+## Hitos del Proyecto :
+- **Hito 1:** Creación del repositorio y definición del proyecto (este documento).  
+- **Hito 2:** Configuración de la integración continua y estructura básica del frontend/backend.  
+- **Hito 3:** Diseño e implementación de microservicios para productos y supermercados.  
+- **Hito 4:** Composición de servicios y pruebas de integración.  
+- **Hito 5:** Despliegue de la aplicación en una plataforma en la nube.
 
-## Instrucciones (dev)
-1. Clonar el repositorio
-2. `docker compose up --build` (futuro, para ejecutar la app)
