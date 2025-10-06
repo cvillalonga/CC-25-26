@@ -22,7 +22,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--versión--> |
 | H. C. ERWIN ANDREI | <!--enlace-->                                                           | <!--versión--> |
 | H. HAOWEI | <!--enlace-->                                                           | <!--versión--> |
-| K. IASON | <!--enlace-->                                                           | <!--versión--> |
+| K. IASON | <!--enlace--> https://github.com/arg0n4ut/Viaje-Ya                                                          | <!--versión-->0.1.0 |
 | M. MICHAEL | <!--enlace-->                                                           | <!--versión--> |
 | M. ELHADJ | <!--enlace-->                                                           | <!--versión--> |
 | M. ZAKARIA | <!--enlace-->                                                           | <!--versión--> |
