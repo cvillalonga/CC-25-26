@@ -12,7 +12,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. C. FRANCISCO DE ASIS | <!--enlace-->                                                           | <!--versión--> |
 | C. R. JORGE ARLEY | <!--enlace-->                                                           | <!--versión--> |
 | C. BO | <!--enlace-->                                                           | <!--versión--> |
-| C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
+| C. M. XIMENA STEFANIA | https://github.com/XimenaCor/COLL-APP | 0.1.0 |
 | D. G. TEODOSIO | <!--enlace-->                                                           | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | G. A. PABLO | <!--enlace-->                                                           | <!--versión--> |
