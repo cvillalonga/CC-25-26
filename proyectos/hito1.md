@@ -39,6 +39,6 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
 | T. ANAS | <!--enlace-->                                                           | <!--versión--> |
 | --- | --- | --- |
-| G. G. ANDRES | <!--enlace-->                                                           | <!--versión--> |
+| G. G. ANDRES | [SDG-Project](https://github.com/AndrosArcadia/SDG-Project)                                                           | Menos Cero |
 | C. F. LORENA | <!--enlace-->                                                           | <!--versión--> |
 | S. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
