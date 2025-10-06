@@ -25,7 +25,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | K. IASON | <!--enlace-->                                                           | <!--versión--> |
 | M. MICHAEL | <!--enlace-->                                                           | <!--versión--> |
 | M. ELHADJ | <!--enlace-->                                                           | <!--versión--> |
-| M. ZAKARIA | <!--enlace-->                                                           | <!--versión--> |
+| M. ZAKARIA | https://github.com/zmoussam/hirematch                                                         | v.1.0.0 |
 | M. M. JESUS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | M. S. DAVID | <!--enlace-->                                                           | <!--versión--> |
 | P. C. BENIGNO JOAQUIN | <!--enlace-->                                                           | <!--versión--> |
