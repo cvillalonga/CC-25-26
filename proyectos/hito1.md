@@ -31,7 +31,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. C. BENIGNO JOAQUIN | <!--enlace-->                                                           | <!--versión--> |
 | P. FLAVIO FILIPPO | <!--enlace-->                                                           | <!--versión--> |
 | P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--versión--> |
-| P. N. DANIEL | [<!--enlace--> ](https://github.com/danielb113d1a/despliegueAppCC)                                                          | <!--versión--> v1.0|
+| P. N. DANIEL | https://github.com/danielb113d1a/despliegueAppCC                                                          | <!--versión--> v1.0|
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
 | S. NIKLAS | <!--enlace-->                                                           | <!--versión--> |
