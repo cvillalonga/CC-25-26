@@ -32,5 +32,5 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
 | S. TIM | <!--enlace-->                                                           | <!--versión--> |
-| S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
+| S. AISCHE VERA | https://github.com/aischesp/cc-proyecto-aischespieker/tree/main/Hitos/hito1.md                                                           | v1.0 |
 | T. ANAS | <!--enlace-->                                                           | <!--versión--> |
