@@ -15,6 +15,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
 | D. G. TEODOSIO | <!--enlace-->                                                           | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
+| G. A. PABLO | <!--enlace-->                                                           | <!--versión--> |
 | G. R. MANUEL | <!--enlace-->                                                           | <!--versión--> |
 | G. L. FELIPE | <!--enlace-->                                                           | <!--versión--> |
 | G. R. CARLOS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
@@ -25,12 +26,19 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. MICHAEL | <!--enlace-->                                                           | <!--versión--> |
 | M. ELHADJ | <!--enlace-->                                                           | <!--versión--> |
 | M. ZAKARIA | <!--enlace-->                                                           | <!--versión--> |
+| M. M. JESUS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | M. S. DAVID | <!--enlace-->                                                           | <!--versión--> |
 | P. C. BENIGNO JOAQUIN | <!--enlace-->                                                           | <!--versión--> |
+| P. FLAVIO FILIPPO | <!--enlace-->                                                           | <!--versión--> |
 | P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--versión--> |
 | P. N. DANIEL | <!--enlace-->                                                           | <!--versión--> |
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
+| S. NIKLAS | <!--enlace-->                                                           | <!--versión--> |
 | S. TIM | <!--enlace-->                                                           | <!--versión--> |
 | S. AISCHE VERA | https://github.com/aischesp/cc-proyecto-aischespieker/tree/main/Hitos/hito1.md                                                           | v1.0 |
 | T. ANAS | <!--enlace-->                                                           | <!--versión--> |
+| --- | --- | --- |
+| G. G. ANDRES | <!--enlace-->                                                           | <!--versión--> |
+| C. F. LORENA | <!--enlace-->                                                           | <!--versión--> |
+| S. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
