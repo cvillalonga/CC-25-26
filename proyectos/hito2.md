@@ -1,4 +1,4 @@
-# Hito 1
+# Hito 2
 
 Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 
@@ -8,8 +8,8 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | A. C. EMILIO | <!--enlace-->                                                           | <!--versión--> |
 | A. S. JESUS | <!--enlace-->                                                           | <!--versión--> |
 | B. A. AARON | <!--enlace-->                                                           | <!--versión--> |
-| B. A. MARIO | https://github.com/mariobosquee/ProyectoCC/blob/master/hitos/hito1.md              | <!--versión--> |
-| C. C. FRANCISCO DE ASIS | [enlace](https://github.com/paccco/TFGfinder/blob/main/hitos/hito1.md)                                                        | 1.0.0 |
+| B. A. MARIO | <!--enlace-->                                                           | <!--versión--> |
+| C. C. FRANCISCO DE ASIS | <!--enlace-->                                                           | <!--versión--> |
 | C. R. JORGE ARLEY | <!--enlace-->                                                           | <!--versión--> |
 | C. BO | <!--enlace-->                                                           | <!--versión--> |
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
@@ -23,22 +23,24 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | H. C. ERWIN ANDREI | <!--enlace-->                                                           | <!--versión--> |
 | H. HAOWEI | <!--enlace-->                                                           | <!--versión--> |
 | K. IASON | <!--enlace-->                                                           | <!--versión--> |
+| L. L. WILLIAM | <!--enlace-->                                                           | <!--versión--> |
 | M. MICHAEL | <!--enlace-->                                                           | <!--versión--> |
 | M. ELHADJ | <!--enlace-->                                                           | <!--versión--> |
 | M. ZAKARIA | <!--enlace-->                                                           | <!--versión--> |
+| M. CHAIMAE | <!--enlace-->                                                           | <!--versión--> |
 | M. M. JESUS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | M. S. DAVID | <!--enlace-->                                                           | <!--versión--> |
 | P. C. BENIGNO JOAQUIN | <!--enlace-->                                                           | <!--versión--> |
-| P. FLAVIO FILIPPO | https://github.com/Fjavio/CC_Flavio_project/blob/master/README.md           | 1.0 |
-| P. HENDRIK MAXIMILIAN | https://github.com/hendrikmp/CC-Project-HP                                                           | 0.0.0 |
+| P. FLAVIO FILIPPO | <!--enlace-->                                                           | <!--versión--> |
+| P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--versión--> |
 | P. N. DANIEL | <!--enlace-->                                                           | <!--versión--> |
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
+| R. M. JUAN ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
-| S. NIKLAS | https://github.com/niklas3739/ExpenseTracker                                                           | 0.0.0 |
+| S. NIKLAS | <!--enlace-->                                                           | <!--versión--> |
 | S. TIM | <!--enlace-->                                                           | <!--versión--> |
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
 | T. ANAS | <!--enlace-->                                                           | <!--versión--> |
 | --- | --- | --- |
 | G. G. ANDRES | <!--enlace-->                                                           | <!--versión--> |
 | C. F. LORENA | <!--enlace-->                                                           | <!--versión--> |
-| S. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
