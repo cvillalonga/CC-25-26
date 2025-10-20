@@ -28,7 +28,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. ZAKARIA | <!--enlace-->                                                           | <!--versión--> |
 | M. M. JESUS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | M. S. DAVID | [README](https://github.com/davidmunozsanchez/alert_manager/blob/main/README.md)                                                           | 0.1 |
-| P. C. BENIGNO JOAQUIN | <!--enlace-->                                                           | <!--versión--> |
+| P. C. BENIGNO JOAQUIN |https://github.com/benipr14/CC_Benigno_Parra/blob/main/Hitos/Hito1/Hito1.md                                                        | 1.0 | 
 | P. FLAVIO FILIPPO | https://github.com/Fjavio/CC_Flavio_project/blob/master/README.md           | 1.0 |
 | P. HENDRIK MAXIMILIAN | https://github.com/hendrikmp/CC-Project-HP                                                           | 0.0.0 |
 | P. N. DANIEL | https://github.com/danielb113d1a/despliegueAppCC                                                          | <!--versión--> v1.0|
