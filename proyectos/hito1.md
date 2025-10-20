@@ -10,7 +10,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | B. A. AARON | <!--enlace-->                                                           | <!--versión--> |
 | B. A. MARIO | https://github.com/mariobosquee/ProyectoCC/blob/master/hitos/hito1.md              | <!--versión--> |
 | C. C. FRANCISCO DE ASIS | [enlace](https://github.com/paccco/TFGfinder/blob/main/hitos/hito1.md)                                                        | 1.0.0 |
-| C. R. JORGE ARLEY | <!--enlace-->                                                           | <!--versión--> |
+| C. R. JORGE ARLEY | [Dexo App](https://github.com/jorgekast18/Dexo-Backend)                                                           | v1.0.0 |
 | C. BO |https://github.com/tccbabc/CC-proyecto-2025-2026.git                                                        | 0.0.1 |
 | C. M. XIMENA STEFANIA | https://github.com/XimenaCor/COLL-APP | 0.1.0 |
 | D. G. TEODOSIO | [hito1](https://github.com/Teodosiodg2002/CultureMap/blob/main/docs/hitos/hito1.md)                                                           | <!--versión--> |
