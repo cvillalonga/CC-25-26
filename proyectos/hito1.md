@@ -5,7 +5,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | Nombre       | Enlace proyecto                                                                    | Versión      |
 | --------------- | ----------------------------------------------------------------------- | -------------- |
 | A. HADJAR | <!--enlace-->                                                           | <!--versión--> |
-| A. C. EMILIO | <!--enlace-->                                                           | <!--versión--> |
+| A. C. EMILIO | [SARS](https://github.com/EmilioAC-ISE2021/Claud-Compiuting)             | prepreprealpha |
 | A. S. JESUS |  https://github.com/JesusArSan/Nidoapp/blob/main/docs/hito1/README.md   | **v0.1** |
 | B. A. AARON | <!--enlace-->                                                           | <!--versión--> |
 | B. A. MARIO | https://github.com/mariobosquee/ProyectoCC/blob/master/hitos/hito1.md              | <!--versión--> |
