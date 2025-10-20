@@ -1,4 +1,4 @@
-# Hito 1
+# Hito 2
 
 Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 
