@@ -15,7 +15,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. M. XIMENA STEFANIA | https://github.com/XimenaCor/COLL-APP | 0.1.0 |
 | D. G. TEODOSIO | [hito1](https://github.com/Teodosiodg2002/CultureMap/blob/main/docs/hitos/hito1.md)                                                           | <!--versión--> |
 | G. D. ANTONIO | [PlayTracker](https://github.com/Antongd111/PlayTracker/blob/master/doc/hito1/README.md)                                                           | 0.1.0-dev |
-| G. A. PABLO | <!--enlace-->                                                           | <!--versión--> |
+| G. A. PABLO | https://github.com/pablovegood/Alejandria/blob/main/documentacion/Hito1/README.md | <!--versión--> |
 | G. R. MANUEL | https://github.com/Manuelgruiz/StayTrack                                                          | 0.0.0 |
 | G. L. FELIPE | <!--enlace-->                                                           | <!--versión--> |
 | G. R. CARLOS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
