@@ -31,7 +31,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. C. BENIGNO JOAQUIN | <!--enlace-->                                                           | <!--versión--> |
 | P. FLAVIO FILIPPO | https://github.com/Fjavio/CC_Flavio_project/blob/master/README.md           | 1.0 |
 | P. HENDRIK MAXIMILIAN | https://github.com/hendrikmp/CC-Project-HP                                                           | 0.0.0 |
-| P. N. DANIEL | <!--enlace-->                                                           | <!--versión--> |
+| P. N. DANIEL | https://github.com/danielb113d1a/despliegueAppCC                                                          | <!--versión--> v1.0|
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
 | S. NIKLAS | https://github.com/niklas3739/ExpenseTracker                                                           | 0.0.0 |
