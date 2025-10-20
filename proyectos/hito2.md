@@ -1,4 +1,4 @@
-# Hito 1
+# Hito 2
 
 Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 
@@ -6,39 +6,41 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | --------------- | ----------------------------------------------------------------------- | -------------- |
 | A. HADJAR | <!--enlace-->                                                           | <!--versión--> |
 | A. C. EMILIO | <!--enlace-->                                                           | <!--versión--> |
-| A. S. JESUS |  https://github.com/JesusArSan/Nidoapp/blob/main/docs/hito1/README.md   | **v0.1** |
+| A. S. JESUS | <!--enlace-->                                                           | <!--versión--> |
 | B. A. AARON | <!--enlace-->                                                           | <!--versión--> |
-| B. A. MARIO | https://github.com/mariobosquee/ProyectoCC/blob/master/hitos/hito1.md              | <!--versión--> |
-| C. C. FRANCISCO DE ASIS | [enlace](https://github.com/paccco/TFGfinder/blob/main/hitos/hito1.md)                                                        | 1.0.0 |
+| B. A. MARIO | <!--enlace-->                                                           | <!--versión--> |
+| C. C. FRANCISCO DE ASIS | <!--enlace-->                                                           | <!--versión--> |
 | C. R. JORGE ARLEY | <!--enlace-->                                                           | <!--versión--> |
-| C. BO |https://github.com/tccbabc/CC-proyecto-2025-2026.git                                                        | 0.0.1 |
+| C. BO | <!--enlace-->                                                           | <!--versión--> |
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
 | D. G. TEODOSIO | <!--enlace-->                                                           | <!--versión--> |
-| G. D. ANTONIO | [PlayTracker](https://github.com/Antongd111/PlayTracker/blob/master/doc/hito1/README.md)                                                           | 0.1.0-dev |
+| G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | G. A. PABLO | <!--enlace-->                                                           | <!--versión--> |
-| G. R. MANUEL | https://github.com/Manuelgruiz/StayTrack                                                          | 0.0.0 |
+| G. R. MANUEL | <!--enlace-->                                                           | <!--versión--> |
 | G. L. FELIPE | <!--enlace-->                                                           | <!--versión--> |
 | G. R. CARLOS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--versión--> |
 | H. C. ERWIN ANDREI | <!--enlace-->                                                           | <!--versión--> |
-| H. HAOWEI | https://github.com/KaiTardor/CC_Hamari/blob/main/docs/hito1.md          |  0.1 |
+| H. HAOWEI | <!--enlace-->                                                           | <!--versión--> |
 | K. IASON | <!--enlace-->                                                           | <!--versión--> |
-| M. MICHAEL | [AI-Business-Model-Canvas](https://github.com/michael1702/AI-Business-Model-Canvas/blob/main/README.md)                                                         | 1.0 |
+| L. L. WILLIAM | <!--enlace-->                                                           | <!--versión--> |
+| M. MICHAEL | <!--enlace-->                                                           | <!--versión--> |
 | M. ELHADJ | <!--enlace-->                                                           | <!--versión--> |
 | M. ZAKARIA | <!--enlace-->                                                           | <!--versión--> |
+| M. CHAIMAE | <!--enlace-->                                                           | <!--versión--> |
 | M. M. JESUS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
-| M. S. DAVID | [README](https://github.com/davidmunozsanchez/alert_manager/blob/main/README.md)                                                           | 0.1 |
+| M. S. DAVID | <!--enlace-->                                                           | <!--versión--> |
 | P. C. BENIGNO JOAQUIN | <!--enlace-->                                                           | <!--versión--> |
-| P. FLAVIO FILIPPO | https://github.com/Fjavio/CC_Flavio_project/blob/master/README.md           | 1.0 |
-| P. HENDRIK MAXIMILIAN | https://github.com/hendrikmp/CC-Project-HP                                                           | 0.0.0 |
-| P. N. DANIEL | https://github.com/danielb113d1a/despliegueAppCC                                                          | <!--versión--> v1.0|
+| P. FLAVIO FILIPPO | <!--enlace-->                                                           | <!--versión--> |
+| P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--versión--> |
+| P. N. DANIEL | <!--enlace-->                                                           | <!--versión--> |
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
+| R. M. JUAN ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
-| S. NIKLAS | https://github.com/niklas3739/ExpenseTracker                                                           | 0.0.0 |
+| S. NIKLAS | <!--enlace-->                                                           | <!--versión--> |
 | S. TIM | <!--enlace-->                                                           | <!--versión--> |
-| S. AISCHE VERA | https://github.com/aischesp/cc-proyecto-aischespieker/tree/main/Hitos/hito1.md                                                           | v1.0 |
+| S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
 | T. ANAS | <!--enlace-->                                                           | <!--versión--> |
 | --- | --- | --- |
 | G. G. ANDRES | <!--enlace-->                                                           | <!--versión--> |
 | C. F. LORENA | <!--enlace-->                                                           | <!--versión--> |
-| S. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
