@@ -39,6 +39,6 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | S. AISCHE VERA | https://github.com/aischesp/cc-proyecto-aischespieker/tree/main/Hitos/hito1.md                                                           | v1.0 |
 | T. ANAS | <!--enlace-->                                                           | <!--versión--> |
 | --- | --- | --- |
-| G. G. ANDRES | <!--enlace-->                                                           | <!--versión--> |
+| G. G. ANDRES | [SDG-Project](https://github.com/AndrosArcadia/SDG-Project)                                                           | Menos Cero |                                                        | <!--versión--> |
 | C. F. LORENA | [Matchgrícola](https://github.com/lorena47/Matchgricola)                                                          | <!--versión--> |
 | S. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
