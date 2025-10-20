@@ -36,7 +36,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
 | S. NIKLAS | https://github.com/niklas3739/ExpenseTracker                                                           | 0.0.0 |
 | S. TIM | <!--enlace-->                                                           | <!--versión--> |
-| S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
+| S. AISCHE VERA | https://github.com/aischesp/cc-proyecto-aischespieker/tree/main/Hitos/hito1.md                                                           | v1.0 |
 | T. ANAS | <!--enlace-->                                                           | <!--versión--> |
 | --- | --- | --- |
 | G. G. ANDRES | <!--enlace-->                                                           | <!--versión--> |
