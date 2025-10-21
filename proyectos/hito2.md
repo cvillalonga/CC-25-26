@@ -21,7 +21,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. R. CARLOS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--versión--> |
 | H. C. ERWIN ANDREI | <!--enlace-->                                                           | <!--versión--> |
-| H. HAOWEI | <!--enlace-->                                                           | <!--versión--> |
+| H. HAOWEI | https://github.com/KaiTardor/CC_Hamari/blob/main/docs/hito2.md              | v0.1 |
 | K. IASON | <!--enlace-->                                                           | <!--versión--> |
 | L. L. WILLIAM | <!--enlace-->                                                           | <!--versión--> |
 | M. MICHAEL | <!--enlace-->                                                           | <!--versión--> |
