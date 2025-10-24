@@ -37,7 +37,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JUAN ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
-| S. NIKLAS | <!--enlace-->                                                           | <!--versión--> |
+| S. NIKLAS | https://github.com/niklas3739/ExpenseTracker/blob/main/docs/hito02.md      | <!--versión--> |
 | S. TIM | <!--enlace-->                                                           | <!--versión--> |
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
 | T. ANAS | <!--enlace-->                                                           | <!--versión--> |
