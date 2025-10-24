@@ -9,7 +9,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | A. S. JESUS | <!--enlace-->                                                           | <!--versión--> |
 | B. A. AARON | <!--enlace-->                                                           | <!--versión--> |
 | B. A. MARIO | <!--enlace-->                                                           | <!--versión--> |
-| C. C. FRANCISCO DE ASIS | <!--enlace-->                                                           | <!--versión--> |
+| C. C. FRANCISCO DE ASIS | [enlace](https://github.com/paccco/TFGfinder/blob/main/hitos/hito2.md)                                                           | 1.0 |
 | C. R. JORGE ARLEY | <!--enlace-->                                                           | <!--versión--> |
 | C. BO | <!--enlace-->                                                           | <!--versión--> |
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
