@@ -38,7 +38,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | R. M. JUAN ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
 | S. NIKLAS | <!--enlace-->                                                           | <!--versión--> |
-| S. TIM | <!--enlace-->                                                           | <!--versión--> |
+| S. TIM | <!--enlace--> https://github.com/Tim16112001/TapasMap-Granada/blob/fa244a43e73c97b3c2819c13fb5abbcd37f7b9ce/docs/hito2.md                                                        | <!--versión--> |
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
 | T. ANAS | <!--enlace-->                                                           | <!--versión--> |
 | --- | --- | --- |
