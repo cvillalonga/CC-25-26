@@ -35,12 +35,12 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--versión--> |
 | P. N. DANIEL | <!--enlace-->                                                           | <!--versión--> |
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
-| R. M. JUAN ANTONIO | <!--enlace-->                                                           | <!--versión--> |
-| R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
-| S. NIKLAS | <!--enlace-->                                                           | <!--versión--> |
-| S. TIM | <!--enlace-->                                                           | <!--versión--> |
-| S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
-| T. ANAS | <!--enlace-->                                                           | <!--versión--> |
+| R. M. JUAN ANTONIO | <!--enlace-->                                                     | <!--versión--> |
+| R. M. JULIO CESAR | <!--enlace-->                                                      | <!--versión--> |
+| S. NIKLAS | <!--enlace-->                                                              | <!--versión--> |
+| S. TIM | <!--enlace-->                                                                 | <!--versión--> |
+| S. AISCHE VERA | <!--enlace-->                                                         | <!--versión--> |
+| T. ANAS |              https://github.com/anas-tahi/CC-25-26-AnasTahir.git             | 2.0 |
 | --- | --- | --- |
 | G. G. ANDRES | <!--enlace-->                                                           | <!--versión--> |
 | C. F. LORENA | <!--enlace-->                                                           | <!--versión--> |
