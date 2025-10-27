@@ -36,7 +36,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. N. DANIEL | <!--enlace-->                                                           | <!--versión--> |
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JUAN ANTONIO | <!--enlace-->                                                           | <!--versión--> |
-| R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
+| R. M. JULIO CESAR | [<!--enlace-->](https://github.com/Juliorubiodev/Inku)                                                           | 0.1.0 |
 | S. NIKLAS | <!--enlace-->                                                           | <!--versión--> |
 | S. TIM | <!--enlace-->                                                           | <!--versión--> |
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
