@@ -5,7 +5,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | Nombre       | Enlace proyecto                                                                    | Versión      |
 | --------------- | ----------------------------------------------------------------------- | -------------- |
 | A. HADJAR | <!--enlace-->                                                           | <!--versión--> |
-| A. C. EMILIO | <!--enlace-->                                                           | <!--versión--> |
+| A. C. EMILIO | [Sars: Memoria Hito 2](https://github.com/EmilioAC-ISE2021/Claud-Compiuting/blob/main/hitos/2.md)                                                          | alpha 1 |
 | A. S. JESUS | <!--enlace-->                                                           | <!--versión--> |
 | B. A. AARON | <!--enlace-->                                                           | <!--versión--> |
 | B. A. MARIO | <!--enlace-->                                                           | <!--versión--> |
