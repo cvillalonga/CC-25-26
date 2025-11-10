@@ -26,7 +26,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | L. L. WILLIAM | <!--enlace-->                                                           | <!--versión--> |
 | M. MICHAEL | [AI-Business-Model-Canvas](https://github.com/michael1702/AI-Business-Model-Canvas/blob/main/README.md)                                                          | 1.1 |
 | M. ELHADJ | <!--enlace-->                                                           | <!--versión--> |
-| M. ZAKARIA | <!--enlace-->                                                           | <!--versión--> |
+| M. ZAKARIA |        https://github.com/zmoussam/hirematch                                              | v0.1.1 |
 | M. CHAIMAE | <!--enlace-->                                                           | <!--versión--> |
 | M. M. JESUS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | M. S. DAVID | https://github.com/davidmunozsanchez/alert_manager/blob/main/README.md                                                           | <2.0 |
