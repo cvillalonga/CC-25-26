@@ -29,7 +29,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. S. DAVID | <!--enlace-->                                                           | <!--versión--> |
 | P. C. BENIGNO JOAQUIN | <!--enlace-->                                                           | <!--versión--> |
 | P. FLAVIO FILIPPO | Conservatory Management System: https://github.com/Fjavio/CC_Flavio_project | 3.0 |
-| P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--versión--> |
+| P. HENDRIK MAXIMILIAN | https://github.com/hendrikmp/CC-Project-HP/blob/main/docs/milestone3.md | 0.2.0 |
 | P. N. DANIEL | <!--enlace-->                                                           | <!--versión--> |
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JUAN ANTONIO | <!--enlace-->                                                           | <!--versión--> |
