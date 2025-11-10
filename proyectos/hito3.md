@@ -16,7 +16,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | D. G. TEODOSIO | https://github.com/Teodosiodg2002/CultureMap/blob/main/docs/hitos/hito3.md   | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | G. A. PABLO | <!--enlace-->                                                           | <!--versión--> |
-| G. R. MANUEL | <!--enlace-->                                                           | <!--versión--> |
+| G. R. MANUEL | https://github.com/Manuelgruiz/StayTrack/tree/master                                                           | 2.0.0 |
 | G. R. CARLOS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--versión--> |
 | H. C. ERWIN ANDREI | <!--enlace-->                                                           | <!--versión--> |
