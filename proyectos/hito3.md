@@ -6,14 +6,14 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | --------------- | ----------------------------------------------------------------------- | -------------- |
 | A. HADJAR | <!--enlace-->                                                           | <!--versión--> |
 | A. C. EMILIO | <!--enlace-->                                                           | <!--versión--> |
-| A. S. JESUS | <!--enlace-->                                                           | <!--versión--> |
+| A. S. JESUS |  [NidoApp](https://github.com/JesusArSan/Nidoapp/blob/main/docs/hito3/README.md)   | **v0.3** |
 | B. A. MARIO | <!--enlace-->                                                           | <!--versión--> |
-| C. C. FRANCISCO DE ASIS | <!--enlace-->                                                           | <!--versión--> |
+| C. C. FRANCISCO DE ASIS |[enlace](https://github.com/paccco/TFGfinder/blob/main/hitos/hito3.md)                                                          | 1.0 |
 | C. R. JORGE ARLEY | [DexoApp - Hito 3](https://github.com/jorgekast18/Dexo-Backend/blob/main/docs/Hito3.md)                                                           | 1.0 |
 | C. F. LORENA | <!--enlace-->                                                           | <!--versión--> |
 | C. BO | <!--enlace-->                                                           | <!--versión--> |
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
-| D. G. TEODOSIO | <!--enlace-->                                                           | <!--versión--> |
+| D. G. TEODOSIO | https://github.com/Teodosiodg2002/CultureMap/blob/main/docs/hitos/hito3.md   | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | G. A. PABLO | <!--enlace-->                                                           | <!--versión--> |
 | G. R. MANUEL | <!--enlace-->                                                           | <!--versión--> |
@@ -21,7 +21,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--versión--> |
 | H. C. ERWIN ANDREI | https://github.com/bogotensis/AcortadorURL/blob/main/docs/hito3.md | 0.0.1 |
 | H. HAOWEI | https://github.com/KaiTardor/CC_Hamari/blob/main/docs/hito3.md  | v0.1 |
-| K. IASON | <!--enlace-->                                                           | <!--versión--> |
+| K. IASON | https://github.com/arg0n4ut/Viaje-Ya                                                           | 0.3.0 |
 | L. L. WILLIAM | <!--enlace-->                                                           | <!--versión--> |
 | M. MICHAEL | <!--enlace-->                                                           | <!--versión--> |
 | M. ZAKARIA | <!--enlace-->                                                           | <!--versión--> |
