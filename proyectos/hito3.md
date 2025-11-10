@@ -14,7 +14,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. BO | <!--enlace-->                                                           | <!--versión--> |
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
 | D. G. TEODOSIO | https://github.com/Teodosiodg2002/CultureMap/blob/main/docs/hitos/hito3.md   | <!--versión--> |
-| G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
+| G. D. ANTONIO | [PlayTracker](https://github.com/Antongd111/PlayTracker/blob/master/doc/hito3/README.md)                                                          | 0.3.0 |
 | G. A. PABLO | <!--enlace-->                                                           | <!--versión--> |
 | G. R. MANUEL | <!--enlace-->                                                           | <!--versión--> |
 | G. R. CARLOS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
