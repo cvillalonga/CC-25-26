@@ -10,7 +10,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | B. A. AARON | <!--enlace-->                                                           | <!--versión--> |
 | B. A. MARIO | <!--enlace-->                                                           | <!--versión--> |
 | C. C. FRANCISCO DE ASIS | <!--enlace-->                                                           | <!--versión--> |
-| C. R. JORGE ARLEY | <!--enlace-->                                                           | <!--versión--> |
+| C. R. JORGE ARLEY | [Dexo APP](https://github.com/jorgekast18/Dexo-Backend/blob/main/docs/Hito2.md)                                                           | V0.1.1 |
 | C. BO | <!--enlace-->                                                           | <!--versión--> |
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
 | D. G. TEODOSIO | <!--enlace-->                                                           | <!--versión--> |
@@ -21,7 +21,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. R. CARLOS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--versión--> |
 | H. C. ERWIN ANDREI | <!--enlace-->                                                           | <!--versión--> |
-| H. HAOWEI | <!--enlace-->                                                           | <!--versión--> |
+| H. HAOWEI | https://github.com/KaiTardor/CC_Hamari/blob/main/docs/hito2.md              | v0.1 |
 | K. IASON | <!--enlace-->                                                           | <!--versión--> |
 | L. L. WILLIAM | <!--enlace-->                                                           | <!--versión--> |
 | M. MICHAEL | <!--enlace-->                                                           | <!--versión--> |
@@ -37,8 +37,8 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JUAN ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
-| S. NIKLAS | https://github.com/niklas3739/ExpenseTracker/blob/main/docs/hito02.md      | <!--versión--> |
-| S. TIM | <!--enlace-->                                                           | <!--versión--> |
+| S. NIKLAS | https://github.com/niklas3739/ExpenseTracker/blob/main/docs/hito02.md      | <!--versión--> |                                                    | <!--versión--> |
+| S. TIM | <!--enlace--> https://github.com/Tim16112001/TapasMap-Granada/blob/fa244a43e73c97b3c2819c13fb5abbcd37f7b9ce/docs/hito2.md                                                        | <!--versión--> |
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
 | T. ANAS | <!--enlace-->                                                           | <!--versión--> |
 | --- | --- | --- |
