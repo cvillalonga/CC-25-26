@@ -20,7 +20,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. L. FELIPE | <!--enlace-->                                                           | <!--versión--> |
 | G. R. CARLOS ALBERTO | https://github.com/CarlosGutierrezR/passcheck-api/blob/main/docs/hito1.md|<!--version--> |
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--versión--> |
-| H. C. ERWIN ANDREI | <!--enlace-->                                                           | <!--versión--> |
+| H. C. ERWIN ANDREI | https://github.com/bogotensis/AcortadorURL/blob/main/docs/hito1.md | 0.0.1 |
 | H. HAOWEI | https://github.com/KaiTardor/CC_Hamari/blob/main/docs/hito1.md          |  0.1 |
 | K. IASON | <!--enlace--> https://github.com/arg0n4ut/Viaje-Ya                                                          | <!--versión-->0.1.0 |
 | L. L. WILLIAM | <!--enlace-->                                                           | <!--versión--> |
