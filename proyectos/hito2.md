@@ -12,7 +12,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. C. FRANCISCO DE ASIS | [enlace](https://github.com/paccco/TFGfinder/blob/main/hitos/hito2.md)                                                           | 1.0 |
 | C. R. JORGE ARLEY | [Dexo APP](https://github.com/jorgekast18/Dexo-Backend/blob/main/docs/Hito2.md)                                                           | V0.1.1 |
 | C. BO | https://github.com/tccbabc/CC-proyecto-2025-2026/blob/main/docs/hito2.md            | 0.02 |
-| C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
+| C. M. XIMENA STEFANIA | https://github.com/XimenaCor/IWillDoIt/blob/main/hito2/README.md                                                           | 0.2.0 |
 | D. G. TEODOSIO |https://github.com/Teodosiodg2002/CultureMap/blob/main/docs/hitos/hito2.md                                                           | <!--versión--> |
 | G. D. ANTONIO | [PlayTracker](https://github.com/Antongd111/PlayTracker/blob/master/doc/hito2/README.md)                                                           | 0.1.0-dev |
 | G. A. PABLO | https://github.com/pablovegood/Alejandria/blob/main/documentacion/Hito2/README.md | 0.1 |
