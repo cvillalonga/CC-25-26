@@ -32,7 +32,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. S. DAVID | https://github.com/davidmunozsanchez/alert_manager/blob/main/README.md                                                           | <2.0 |
 | P. C. BENIGNO JOAQUIN | <!--enlace-->                                                           | <!--versión--> |
 | P. FLAVIO FILIPPO | Conservatory Management System: https://github.com/Fjavio/CC_Flavio_project     | 2.0 |
-| P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--versión--> |
+| P. HENDRIK MAXIMILIAN | https://github.com/hendrikmp/CC-Project-HP/blob/main/docs/milestone2.md | 0.1.0 |
 | P. N. DANIEL | https://github.com/danielb113d1a/despliegueAppCC                                                           | v2.0 |
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JUAN ANTONIO | <!--enlace-->                                                           | <!--versión--> |
