@@ -33,7 +33,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. C. BENIGNO JOAQUIN | <!--enlace-->                                                           | <!--versión--> |
 | P. FLAVIO FILIPPO | Conservatory Management System: https://github.com/Fjavio/CC_Flavio_project     | 2.0 |
 | P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--versión--> |
-| P. N. DANIEL | <!--enlace-->                                                           | <!--versión--> |
+| P. N. DANIEL | https://github.com/danielb113d1a/despliegueAppCC                                                           | v2.0 |
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JUAN ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
