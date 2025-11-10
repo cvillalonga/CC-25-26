@@ -23,7 +23,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | H. HAOWEI | https://github.com/KaiTardor/CC_Hamari/blob/main/docs/hito3.md  | v0.1 |
 | K. IASON | https://github.com/arg0n4ut/Viaje-Ya                                                           | 0.3.0 |
 | L. L. WILLIAM | <!--enlace-->                                                           | <!--versión--> |
-| M. MICHAEL | <!--enlace-->                                                           | <!--versión--> |
+| M. MICHAEL | [AI-Business-Model-Canvas](https://github.com/michael1702/AI-Business-Model-Canvas/blob/main/docs/hito3.md)                                                          | 1.2 |
 | M. ZAKARIA | <!--enlace-->                                                           | <!--versión--> |
 | M. CHAIMAE | <!--enlace-->                                                           | <!--versión--> |
 | M. S. DAVID | <!--enlace-->                                                           | <!--versión--> |
