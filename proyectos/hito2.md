@@ -20,7 +20,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. L. FELIPE | <!--enlace-->                                                           | <!--versión--> |
 | G. R. CARLOS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--versión--> |
-| H. C. ERWIN ANDREI | <!--enlace-->                                                           | <!--versión--> |
+| H. C. ERWIN ANDREI | https://github.com/bogotensis/AcortadorURL/blob/main/docs/hito2.md | 0.0.1 |
 | H. HAOWEI | <!--enlace-->                                                           | <!--versión--> |
 | K. IASON | <!--enlace-->                                                           | <!--versión--> |
 | L. L. WILLIAM | <!--enlace-->                                                           | <!--versión--> |
