@@ -37,7 +37,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JUAN ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
-| S. NIKLAS | <!--enlace-->                                                           | <!--versión--> |
+| S. NIKLAS | https://github.com/niklas3739/ExpenseTracker/blob/main/docs/hito02.md      | <!--versión--> |                                                    | <!--versión--> |
 | S. TIM | <!--enlace--> https://github.com/Tim16112001/TapasMap-Granada/blob/fa244a43e73c97b3c2819c13fb5abbcd37f7b9ce/docs/hito2.md                                                        | <!--versión--> |
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
 | T. ANAS | <!--enlace-->                                                           | <!--versión--> |
