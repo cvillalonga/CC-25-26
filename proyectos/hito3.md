@@ -37,6 +37,6 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | S. NIKLAS | <!--enlace-->                                                           | <!--versión--> |
 | S. TIM | <!--enlace-->                                                           | <!--versión--> |
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
-| T. ANAS | <!--enlace-->                                                           | <!--versión--> |
+| T. ANAS | [<!--(https://github.com/anas-tahi/CC-25-26-AnasTahir.git)-->](https://github.com/anas-tahi/CC-25-26-AnasTahir.git)| <!--versión--> |
 | --- | --- | --- |
 | G. G. ANDRES | <!--enlace-->                                                           | <!--versión--> |
