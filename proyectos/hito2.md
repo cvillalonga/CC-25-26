@@ -8,7 +8,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | A. C. EMILIO | <!--enlace-->                                                           | <!--versión--> |
 | A. S. JESUS | <!--enlace-->                                                           | <!--versión--> |
 | B. A. AARON | <!--enlace-->                                                           | <!--versión--> |
-| B. A. MARIO | <!--enlace-->                                                           | <!--versión--> |
+| B. A. MARIO | https://github.com/mariobosquee/ProyectoCC/blob/master/hitos/hito2.md                                                         | <!--versión--> |
 | C. C. FRANCISCO DE ASIS | <!--enlace-->                                                           | <!--versión--> |
 | C. R. JORGE ARLEY | [Dexo APP](https://github.com/jorgekast18/Dexo-Backend/blob/main/docs/Hito2.md)                                                           | V0.1.1 |
 | C. BO | <!--enlace-->                                                           | <!--versión--> |
