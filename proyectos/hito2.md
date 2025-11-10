@@ -11,7 +11,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | B. A. MARIO | https://github.com/mariobosquee/ProyectoCC/blob/master/hitos/hito2.md                                                         | <!--versión--> |
 | C. C. FRANCISCO DE ASIS | [enlace](https://github.com/paccco/TFGfinder/blob/main/hitos/hito2.md)                                                           | 1.0 |
 | C. R. JORGE ARLEY | [Dexo APP](https://github.com/jorgekast18/Dexo-Backend/blob/main/docs/Hito2.md)                                                           | V0.1.1 |
-| C. BO | <!--enlace-->                                                           | <!--versión--> |
+| C. BO | https://github.com/tccbabc/CC-proyecto-2025-2026/blob/main/docs/hito2.md            | 0.02 |
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
 | D. G. TEODOSIO |https://github.com/Teodosiodg2002/CultureMap/blob/main/docs/hitos/hito2.md                                                           | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
