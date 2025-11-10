@@ -15,7 +15,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
 | D. G. TEODOSIO |https://github.com/Teodosiodg2002/CultureMap/blob/main/docs/hitos/hito2.md                                                           | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
-| G. A. PABLO | <!--enlace-->                                                           | <!--versión--> |
+| G. A. PABLO | https://github.com/pablovegood/Alejandria/blob/main/documentacion/Hito2/README.md | 0.1 |
 | G. R. MANUEL | <!--enlace-->                                                           | <!--versión--> |
 | G. L. FELIPE | <!--enlace-->                                                           | <!--versión--> |
 | G. R. CARLOS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
