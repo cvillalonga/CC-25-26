@@ -36,7 +36,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. N. DANIEL | https://github.com/danielb113d1a/despliegueAppCC                                                           | v2.0 |
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JUAN ANTONIO | <!--enlace-->                                                           | <!--versión--> |
-| R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
+| R. M. JULIO CESAR | [<!--enlace-->](https://github.com/Juliorubiodev/Inku)                                                           | 0.1.0 |
 | S. NIKLAS | https://github.com/niklas3739/ExpenseTracker/blob/main/docs/hito02.md      | <!--versión--> |                                                    | <!--versión--> |
 | S. TIM | <!--enlace--> https://github.com/Tim16112001/TapasMap-Granada/blob/fa244a43e73c97b3c2819c13fb5abbcd37f7b9ce/docs/hito2.md                                                        | <!--versión--> |
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
