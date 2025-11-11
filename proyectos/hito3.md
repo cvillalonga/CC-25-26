@@ -33,7 +33,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. N. DANIEL | <!--enlace-->                                                           | <!--versión--> |
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JUAN ANTONIO | <!--enlace-->                                                           | <!--versión--> |
-| R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
+| R. M. JULIO CESAR | https://github.com/Juliorubiodev/Inku                                                           | 0.2.0|
 | S. NIKLAS | https://github.com/niklas3739/ExpenseTracker/blob/main/docs/hito03.md                                                           | <!--versión--> |
 | S. TIM | <!--enlace--> https://github.com/Tim16112001/TapasMap-Granada/blob/548b4369d1a2258f4461fc0d67ee090ab556c979/docs/hito3.md                                                         | <!--versión--> |
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
