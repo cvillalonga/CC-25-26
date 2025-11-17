@@ -15,7 +15,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
 | D. G. TEODOSIO | https://github.com/Teodosiodg2002/CultureMap/blob/main/docs/hitos/hito3.md   | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
-| G. A. PABLO | <!--enlace-->                                                           | <!--versión--> |
+| G. A. PABLO | https://github.com/pablovegood/Alejandria/blob/Hito3/documentacion/Hito3/README.md | 0.1 |
 | G. R. MANUEL | https://github.com/Manuelgruiz/StayTrack/tree/master                                                           | 2.0.0 |
 | G. R. CARLOS ALBERTO | https://github.com/CarlosGutierrezR/passcheck-api/blob/main/docs/hito3.md| <!--versión--> |
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--versión--> |
