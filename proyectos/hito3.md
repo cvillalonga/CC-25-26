@@ -24,7 +24,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | K. IASON | https://github.com/arg0n4ut/Viaje-Ya                                                           | 0.3.0 |
 | L. L. WILLIAM | <!--enlace-->                                                           | <!--versión--> |
 | M. MICHAEL | [AI-Business-Model-Canvas](https://github.com/michael1702/AI-Business-Model-Canvas/blob/main/docs/hito3.md)                                                          | 1.2 |
-| M. ZAKARIA | <!--enlace-->                                                           | <!--versión--> |
+| M. ZAKARIA | https://github.com/zmoussam/hirematch.git                                                           | v0.3.0 |
 | M. CHAIMAE | <!--enlace-->                                                           | <!--versión--> |
 | M. S. DAVID | [README general](https://github.com/davidmunozsanchez/alert_manager/blob/main/README.md)                                                           | 3.0.0 |
 | P. C. BENIGNO JOAQUIN | https://github.com/benipr14/CC_Benigno_Parra/blob/main/Hitos/Hito3/Hito3.md                                                         | 1.0 |
