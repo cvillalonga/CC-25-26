@@ -34,6 +34,6 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. N. DANIEL | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
 | S. NIKLAS | <!--enlace-->                                                           | <!--versión--> |
-| S. TIM | <!--enlace-->                                                           | <!--versión--> |
+| S. TIM | <!--enlace-->  https://github.com/Tim16112001/TapasMap-Granada/blob/c9f00f9496b143e96872976a41ae4985cf3aaf55/docs/hito4.md | <!--versión--> |
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
 | T. ANAS | <!--enlace-->                                                           | <!--versión--> |
