@@ -37,6 +37,6 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | S. NIKLAS | https://github.com/niklas3739/ExpenseTracker/blob/main/docs/hito03.md                                                           | <!--versión--> |
 | S. TIM | <!--enlace--> https://github.com/Tim16112001/TapasMap-Granada/blob/548b4369d1a2258f4461fc0d67ee090ab556c979/docs/hito3.md                                                         | <!--versión--> |
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
-| T. ANAS | [<!--(https://github.com/anas-tahi/CC-25-26-AnasTahir.git)-->](https://github.com/anas-tahi/CC-25-26-AnasTahir.git)| <!--versión--> |
+| T. ANAS | [https://github.com/anas-tahi/CC-25-26-AnasTahir.git](https://github.com/anas-tahi/CC-25-26-AnasTahir.git)| <!--versión--> |
 | --- | --- | --- |
 | G. G. ANDRES | <!--enlace-->                                                           | <!--versión--> |
