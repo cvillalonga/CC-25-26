@@ -18,9 +18,9 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. A. PABLO | https://github.com/pablovegood/Alejandria/blob/main/documentacion/Hito2/README.md | 0.1 |
 | G. R. MANUEL | https://github.com/Manuelgruiz/StayTrack/tree/master                                                           | 1.0.0 |
 | G. L. FELIPE | <!--enlace-->                                                           | <!--versión--> |
-| G. R. CARLOS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
+| G. R. CARLOS ALBERTO | https://github.com/CarlosGutierrezR/passcheck-api/blob/main/docs/hito2.md  | <!--versión--> |
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--versión--> |
-| H. C. ERWIN ANDREI | <!--enlace-->                                                           | <!--versión--> |
+| H. C. ERWIN ANDREI | https://github.com/bogotensis/AcortadorURL/blob/main/docs/hito2.md | 0.0.1 |
 | H. HAOWEI | https://github.com/KaiTardor/CC_Hamari/blob/main/docs/hito2.md              | v0.1 |
 | K. IASON | https://github.com/arg0n4ut/Viaje-Ya                                                           | 0.2.0 |
 | L. L. WILLIAM | <!--enlace-->                                                           | <!--versión--> |
@@ -30,15 +30,15 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. CHAIMAE | <!--enlace-->                                                           | <!--versión--> |
 | M. M. JESUS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | M. S. DAVID | https://github.com/davidmunozsanchez/alert_manager/blob/main/README.md                                                           | <2.0 |
-| P. C. BENIGNO JOAQUIN | <!--enlace-->                                                           | <!--versión--> |
+| P. C. BENIGNO JOAQUIN | https://github.com/benipr14/CC_Benigno_Parra/blob/main/Hitos/Hito2/Hito2.md | <!--versión--> |
 | P. FLAVIO FILIPPO | Conservatory Management System: https://github.com/Fjavio/CC_Flavio_project     | 2.0 |
 | P. HENDRIK MAXIMILIAN | https://github.com/hendrikmp/CC-Project-HP/blob/main/docs/milestone2.md | 0.1.0 |
 | P. N. DANIEL | https://github.com/danielb113d1a/despliegueAppCC                                                           | v2.0 |
 | R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JUAN ANTONIO | <!--enlace-->                                                           | <!--versión--> |
-| R. M. JULIO CESAR | [<!--enlace-->](https://github.com/Juliorubiodev/Inku)                                                           | 0.1.0 |
+| R. M. JULIO CESAR | https://github.com/Juliorubiodev/Inku                                                          | 0.1.0 |
 | S. NIKLAS | https://github.com/niklas3739/ExpenseTracker/blob/main/docs/hito02.md      | <!--versión--> |                                                    | <!--versión--> |
-| S. TIM | <!--enlace--> https://github.com/Tim16112001/TapasMap-Granada/blob/fa244a43e73c97b3c2819c13fb5abbcd37f7b9ce/docs/hito2.md                                                        | <!--versión--> |
+| S. TIM | https://github.com/Tim16112001/TapasMap-Granada                                                        | <!--versión--> |
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
 | T. ANAS |              https://github.com/anas-tahi/CC-25-26-AnasTahir.git             | 2.0 |
 | --- | --- | --- |
