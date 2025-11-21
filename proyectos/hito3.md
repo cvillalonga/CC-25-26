@@ -7,7 +7,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | A. HADJAR | <!--enlace-->                                                           | <!--versión--> |
 | A. C. EMILIO | <!--enlace-->                                                           | <!--versión--> |
 | A. S. JESUS |  [NidoApp](https://github.com/JesusArSan/Nidoapp/blob/main/docs/hito3/README.md)   | **v0.3** |
-| B. A. MARIO | <!--enlace-->                                                           | <!--versión--> |
+| B. A. MARIO | https://github.com/mariobosquee/ProyectoCC/blob/master/hitos/hito3.md                                                          | <!--versión--> |
 | C. C. FRANCISCO DE ASIS |[enlace](https://github.com/paccco/TFGfinder/blob/main/hitos/hito3.md)                                                          | 1.0 |
 | C. R. JORGE ARLEY | [DexoApp - Hito 3](https://github.com/jorgekast18/Dexo-Backend/blob/main/docs/Hito3.md)                                                           | 1.0 |
 | C. F. LORENA | [Hito 3 Matchgrícola](https://github.com/lorena47/Matchgricola/blob/main/documentacion/hito3.md)                                                             | <!--versión--> |
