@@ -33,7 +33,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--versión--> |
 | P. N. DANIEL | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
-| S. NIKLAS | <!--enlace-->                                                           | <!--versión--> |
+| S. NIKLAS | https://github.com/niklas3739/ExpenseTracker/blob/main/docs/hito04.md                                                           | <!--versión--> |
 | S. TIM | <!--enlace-->                                                           | <!--versión--> |
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
 | T. ANAS | <!--enlace-->                                                           | <!--versión--> |
