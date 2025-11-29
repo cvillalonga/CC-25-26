@@ -15,7 +15,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
 | D. G. TEODOSIO | <!--enlace-->                                                           | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
-| G. A. PABLO | <!--enlace-->                                                           | <!--versión--> |
+| G. A. PABLO | https://github.com/pablovegood/Alejandria/blob/main/documentacion/Hito4/README.md | v1.0 |
 | G. R. MANUEL | <!--enlace-->                                                           | <!--versión--> |
 | G. R. CARLOS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--versión--> |
