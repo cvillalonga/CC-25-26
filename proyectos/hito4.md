@@ -17,6 +17,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | G. A. PABLO | https://github.com/pablovegood/Alejandria/blob/main/documentacion/Hito4/README.md | v1.0 |
 | G. R. MANUEL | <!--enlace-->                                                           | <!--versión--> |
+| G. G. ANDRES | <!--enlace-->                                                           | <!--versión--> |
 | G. R. CARLOS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--versión--> |
 | H. C. ERWIN ANDREI | <!--enlace-->                                                           | <!--versión--> |
@@ -31,8 +32,6 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. FLAVIO FILIPPO | <!--enlace-->                                                           | <!--versión--> |
 | P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--versión--> |
 | P. N. DANIEL | <!--enlace-->                                                           | <!--versión--> |
-| R. A. JULIO LUIS | <!--enlace-->                                                           | <!--versión--> |
-| R. M. JUAN ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
 | S. NIKLAS | <!--enlace-->                                                           | <!--versión--> |
 | S. TIM | <!--enlace-->                                                           | <!--versión--> |
