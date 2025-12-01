@@ -22,7 +22,7 @@ Los hitos para la realización del proyecto son los siguientes:
 * [Hito 2: Integración continua](hitos/2.CI.md). 
 * [Hito 3: Diseño de microservicios](hitos/3.Microservicios.md). 
 * [Hito 4: Composición de servicios](hitos/4.Contenedores.md). 
-* [Hito 5: Despliegue de la aplicación en un PaaS](hitos/5.Despliegue.md). 
+* [Hito 5: Despliegue de la aplicación en un IaaS (o PaaS)](hitos/5.Despliegue.md). 
 
 Los hitos del proyecto se entregan actualizando los ficheros disponibles en la carpeta [proyectos](proyectos/README.md) asociados a cada hito y haciendo un pull request.
 
