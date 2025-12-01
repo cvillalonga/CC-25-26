@@ -32,7 +32,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. FLAVIO FILIPPO | <!--enlace-->                                                           | <!--versión--> |
 | P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--versión--> |
 | P. N. DANIEL | <!--enlace-->                                                           | <!--versión--> |
-| R. M. JULIO CESAR | <!--enlace-->                                                           | <!--versión--> |
+| R. M. JULIO CESAR | <[!--enlace--](https://github.com/Juliorubiodev/Inku/blob/main/docs/documentacion_hitos/Hito4.md)>                                                           | <!1.0> |
 | S. NIKLAS | <!--enlace-->                                                           | <!--versión--> |
 | S. TIM | <!--enlace-->                                                           | <!--versión--> |
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--versión--> |
