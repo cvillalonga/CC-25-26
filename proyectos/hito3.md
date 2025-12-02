@@ -12,7 +12,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. R. JORGE ARLEY | [DexoApp - Hito 3](https://github.com/jorgekast18/Dexo-Backend/blob/main/docs/Hito3.md)                                                           | 1.0 |
 | C. F. LORENA | [Hito 3 Matchgrícola](https://github.com/lorena47/Matchgricola/blob/main/documentacion/hito3.md)                                                             | <!--versión--> |
 | C. BO | https://github.com/tccbabc/CC-proyecto-2025-2026/blob/main/docs/hito3.md             | 0.0.3 |
-| C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
+| C. M. XIMENA STEFANIA | https://github.com/XimenaCor/IWillDoIt/blob/main/hito3/README.md                                                           | 0.3.0 |
 | D. G. TEODOSIO | https://github.com/Teodosiodg2002/CultureMap/blob/main/docs/hitos/hito3.md   | <!--versión--> |
 | G. D. ANTONIO | [PlayTracker](https://github.com/Antongd111/PlayTracker/blob/master/doc/hito3/README.md)                                                          | 0.3.0 |
 | G. A. PABLO | https://github.com/pablovegood/Alejandria/blob/Hito3/documentacion/Hito3/README.md | 0.1 |
