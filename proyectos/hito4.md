@@ -7,7 +7,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | A. HADJAR | <!--enlace-->                                                           | <!--versión--> |
 | A. C. EMILIO | <!--enlace-->                                                           | <!--versión--> |
 | A. S. JESUS | <!--enlace-->                                                           | <!--versión--> |
-| B. A. MARIO | <!--enlace-->                                                           | <!--versión--> |
+| B. A. MARIO | https://github.com/mariobosquee/ProyectoCC/blob/master/hitos/hito4.md                                                           | <!--versión--> |
 | C. C. FRANCISCO DE ASIS | <!--enlace-->                                                           | <!--versión--> |
 | C. R. JORGE ARLEY | <!--enlace-->                                                           | <!--versión--> |
 | C. F. LORENA | <!--enlace-->                                                           | <!--versión--> |
