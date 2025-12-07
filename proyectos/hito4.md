@@ -10,7 +10,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | B. A. MARIO | <!--enlace-->                                                           | <!--versión--> |
 | C. C. FRANCISCO DE ASIS | <!--enlace-->                                                           | <!--versión--> |
 | C. R. JORGE ARLEY | <!--enlace-->                                                           | <!--versión--> |
-| C. F. LORENA | <!--enlace-->                                                           | <!--versión--> |
+| C. F. LORENA | [Hito 4 Matchgrícola](https://github.com/lorena47/Matchgricola/blob/main/documentacion/hito4.md)                                                        | <!--versión--> |
 | C. BO | <!--enlace-->                                                           | <!--versión--> |
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
 | D. G. TEODOSIO | <!--enlace-->                                                           | <!--versión--> |
