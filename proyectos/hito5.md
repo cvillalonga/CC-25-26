@@ -6,7 +6,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | -------------| --------------------------------------------------------| ------------------------------------ |
 | A. HADJAR | <!--enlace-->                                                           | <!--enlace--> |
 | A. C. EMILIO | <!--enlace-->                                                           | <!--enlace--> |
-| A. S. JESUS | <!--enlace-->                                                           | <!--enlace--> |
+| A. S. JESUS |  [NidoApp](https://github.com/JesusArSan/Nidoapp/blob/main/docs/hito5/README.md)   | **v0.5** |
 | B. A. MARIO | <!--enlace-->                                                           | <!--enlace--> |
 | C. C. FRANCISCO DE ASIS | <!--enlace-->                                                           | <!--enlace--> |
 | C. R. JORGE ARLEY | <!--enlace-->                                                           | <!--enlace--> |
