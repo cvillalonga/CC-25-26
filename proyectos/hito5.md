@@ -9,7 +9,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | A. S. JESUS | <!--enlace-->                                                           | <!--enlace--> |
 | B. A. MARIO | <!--enlace-->                                                           | <!--enlace--> |
 | C. C. FRANCISCO DE ASIS | <!--enlace-->                                                           | <!--enlace--> |
-| C. R. JORGE ARLEY | <!--enlace-->                                                           | <!--enlace--> |
+| C. R. JORGE ARLEY | [DexoApp hito5](https://github.com/jorgekast18/Dexo-Backend/blob/main/docs/Hito5.md)| [App Desplegada](http://34.201.26.69:8080) Microservicio Auth: Puerto 8080, Microservicio Transactions: Puerto 8081  |
 | C. F. LORENA | <!--enlace-->                                                           | <!--enlace--> |
 | C. BO | <!--enlace-->                                                           | <!--enlace--> |
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--enlace--> |
