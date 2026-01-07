@@ -12,7 +12,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. R. JORGE ARLEY | <!--enlace-->                                                           | <!--versión--> |
 | C. F. LORENA | <!--enlace-->                                                           | <!--versión--> |
 | C. BO | <!--enlace-->                                                           | <!--versión--> |
-| C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
+| C. M. XIMENA STEFANIA | https://github.com/XimenaCor/IWillDoIt/blob/main/hito4/README.md                                                          | 0.4.0 |
 | D. G. TEODOSIO | <!--enlace-->                                                           | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | G. A. PABLO | <!--enlace-->                                                           | <!--versión--> |
