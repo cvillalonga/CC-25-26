@@ -30,7 +30,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. S. DAVID | <!--enlace-->                                                           | <!--enlace--> |
 | P. C. BENIGNO JOAQUIN | <!--enlace-->                                                           | <!--enlace--> |
 | P. FLAVIO FILIPPO | <!--enlace-->                                                           | <!--enlace--> |
-| P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--enlace--> |
+| P. HENDRIK MAXIMILIAN | https://github.com/hendrikmp/CC-Project-HP/blob/main/docs/milestone5.md | 0.4.0 |
 | P. N. DANIEL | <!--enlace-->                                                           | <!--enlace--> |
 | R. A. YADIRA | <!--enlace-->                                                           | <!--enlace--> |
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--enlace--> |
