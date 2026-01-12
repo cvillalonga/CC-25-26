@@ -11,7 +11,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. C. FRANCISCO DE ASIS | <!--enlace-->                                                           | <!--enlace--> |
 | C. R. JORGE ARLEY | <!--enlace-->                                                           | <!--enlace--> |
 | C. F. LORENA | <!--enlace-->                                                           | <!--enlace--> |
-| C. BO | <!--enlace-->                                                           | <!--enlace--> |
+| C. BO | https://github.com/tccbabc/CC-proyecto-2025-2026/blob/main/docs/hito5.md | http://51.20.190.104:8080/api/size-groups |
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--enlace--> |
 | D. G. TEODOSIO | <!--enlace-->                                                           | <!--enlace--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--enlace--> |
