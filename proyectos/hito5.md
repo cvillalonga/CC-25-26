@@ -31,7 +31,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. C. BENIGNO JOAQUIN | <!--enlace-->                                                           | <!--enlace--> |
 | P. FLAVIO FILIPPO | <!--enlace-->                                                           | <!--enlace--> |
 | P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--enlace--> |
-| P. N. DANIEL | <!--enlace-->                                                           | <!--enlace--> |
+| P. N. DANIEL | https://github.com/danielb113d1a/despliegueAppCC                                                          | https://cloudlibrary.up.railway.app/ |
 | R. A. YADIRA | <!--enlace-->                                                           | <!--enlace--> |
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--enlace--> |
 | S. NIKLAS | <!--enlace-->                                                           | <!--enlace--> |
