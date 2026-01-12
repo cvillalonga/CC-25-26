@@ -16,7 +16,8 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | D. G. TEODOSIO | <!--enlace-->                                                           | <!--enlace--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--enlace--> |
 | G. A. PABLO | <!--enlace-->                                                           | <!--enlace--> |
-| G. R. MANUEL | <!--enlace-->                                                           | <!--enlace--> |
+| G. R. MANUEL | 
+https://staytrack-frontend-m4hf.onrender.com/                                                           | https://github.com/Manuelgruiz/StayTrack |
 | G. G. ANDRES | <!--enlace-->                                                           | <!--enlace--> |
 | G. R. CARLOS ALBERTO | <!--enlace-->                                                           | <!--enlace--> |
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--enlace--> |
