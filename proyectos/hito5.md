@@ -29,7 +29,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. CHAIMAE | <!--enlace-->                                                           | <!--enlace--> |
 | M. S. DAVID | <!--enlace-->                                                           | <!--enlace--> |
 | P. C. BENIGNO JOAQUIN | <!--enlace-->                                                           | <!--enlace--> |
-| P. FLAVIO FILIPPO | <!--enlace-->                                                           | <!--enlace--> |
+| P. FLAVIO FILIPPO | Conservatory Management System: https://github.com/Fjavio/CC_Flavio_project | 5.0 |
 | P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--enlace--> |
 | P. N. DANIEL | <!--enlace-->                                                           | <!--enlace--> |
 | R. A. YADIRA | <!--enlace-->                                                           | <!--enlace--> |
