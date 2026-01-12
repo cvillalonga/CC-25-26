@@ -24,7 +24,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | H. HAOWEI | <!--enlace-->                                                           | <!--enlace--> |
 | K. IASON | <!--enlace-->                                                           | <!--enlace--> |
 | L. L. WILLIAM | <!--enlace-->                                                           | <!--enlace--> |
-| M. MICHAEL | <!--enlace-->                                                           | <!--enlace--> |
+| M. MICHAEL | [AI-Business-Model-Canvas](https://github.com/michael1702/AI-Business-Model-Canvas/blob/main/docs/hito5.md)                                                        | 1.4 |
 | M. ZAKARIA | <!--enlace-->                                                           | <!--enlace--> |
 | M. CHAIMAE | <!--enlace-->                                                           | <!--enlace--> |
 | M. S. DAVID | <!--enlace-->                                                           | <!--enlace--> |
