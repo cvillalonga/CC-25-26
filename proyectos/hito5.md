@@ -33,7 +33,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--enlace--> |
 | P. N. DANIEL | <!--enlace-->                                                           | <!--enlace--> |
 | R. A. YADIRA | <!--enlace-->                                                           | <!--enlace--> |
-| R. M. JULIO CESAR | [<!--enlace-->](https://github.com/Juliorubiodev/Inku/blob/main/docs/documentacion_hitos/Hito5.md)                                                           | [<!--enlace-->](https://inku-frontend.onrender.com/) |
+| R. M. JULIO CESAR | [<!--enlace-->](https://github.com/Juliorubiodev/Inku/blob/main/docs/documentacion_hitos/Hito5.md)                                                           | [<!--enlace-->](https://inku-frontend.onrender.com/)  |
 | S. NIKLAS | <!--enlace-->                                                           | <!--enlace--> |
 | S. TIM | <!--enlace-->                                                           | <!--enlace--> |
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--enlace--> |
