@@ -18,7 +18,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. A. PABLO | <!--enlace-->                                                           | <!--enlace--> |
 | G. R. MANUEL | <!--enlace-->                                                           | <!--enlace--> |
 | G. G. ANDRES | <!--enlace-->                                                           | <!--enlace--> |
-| G. R. CARLOS ALBERTO | <!--enlace-->                                                           | <!--enlace--> |
+| G. R. CARLOS ALBERTO | https://github.com/CarlosGutierrezR/passcheck-api/blob/main/docs/hito5.md https://passcheck-api.onrender.com/docs| <!--enlace--> |
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--enlace--> |
 | H. C. ERWIN ANDREI | <!--enlace-->                                                           | <!--enlace--> |
 | H. HAOWEI | <!--enlace-->                                                           | <!--enlace--> |
