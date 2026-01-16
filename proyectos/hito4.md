@@ -20,7 +20,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. G. ANDRES | <!--enlace-->                                                           | <!--versión--> |
 | G. R. CARLOS ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--versión--> |
-| H. C. ERWIN ANDREI | <!--enlace-->                                                           | <!--versión--> |
+| H. C. ERWIN ANDREI | [AcortadorURL/docs/hito4.md](../../../AcortadorURL/docs/hito4.md) | 1.0.0          |
 | H. HAOWEI | <!--enlace-->                                                           | <!--versión--> |
 | K. IASON | <!--enlace-->                                                           | <!--versión--> |
 | L. L. WILLIAM | <!--enlace-->                                                           | <!--versión--> |
