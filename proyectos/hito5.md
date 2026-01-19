@@ -22,7 +22,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--enlace--> |
 | H. C. ERWIN ANDREI | <!--enlace-->                                                           | <!--enlace--> |
 | H. HAOWEI | https://github.com/KaiTardor/CC_Hamari/blob/main/docs/hito5.md     | https://hamari-backend.onrender.com |
-| K. IASON | <!--enlace-->                                                           | <!--enlace--> |
+| K. IASON | https://github.com/arg0n4ut/Viaje-Ya/blob/main/docs-milestones/H5.md | https://viaje-ya.onrender.com/ui |
 | L. L. WILLIAM | <!--enlace-->                                                           | <!--enlace--> |
 | M. MICHAEL | <!--enlace-->                                                           | <!--enlace--> |
 | M. ZAKARIA | <!--enlace-->                                                           | <!--enlace--> |
