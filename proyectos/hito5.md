@@ -11,7 +11,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. C. FRANCISCO DE ASIS | [enlace](https://github.com/paccco/TFGfinder/blob/main/hitos/hito5.md)                                                           | [enlace](http://64.226.104.128:3000)|
 | C. R. JORGE ARLEY | [DexoApp hito5](https://github.com/jorgekast18/Dexo-Backend/blob/main/docs/Hito5.md)| [App Desplegada](http://34.201.26.69:8080) Microservicio Auth: Puerto 8080, Microservicio Transactions: Puerto 8081  |
 | C. F. LORENA | <!--enlace-->                                                           | <!--enlace--> |
-| C. BO | <!--enlace-->                                                           | <!--enlace--> |
+| C. BO | https://github.com/tccbabc/CC-proyecto-2025-2026/blob/main/docs/hito5.md | http://51.20.190.104:8080/api/size-groups |
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--enlace--> |
 | D. G. TEODOSIO | https://github.com/Teodosiodg2002/CultureMap/blob/main/docs/hitos/hito5.md | https://culturemap-app.up.railway.app |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--enlace--> |
