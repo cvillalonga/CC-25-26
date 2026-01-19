@@ -11,7 +11,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. C. FRANCISCO DE ASIS | <!--enlace-->                                                           | <!--versión--> |
 | C. R. JORGE ARLEY | [DexoApp hito4](https://github.com/jorgekast18/Dexo-Backend/blob/main/docs/Hito4.md)                                                           | 1.1.0 |
 | C. F. LORENA | <!--enlace-->                                                           | <!--versión--> |
-| C. BO | <!--enlace-->                                                           | <!--versión--> |
+| C. BO | https://github.com/tccbabc/CC-proyecto-2025-2026/blob/main/docs/hito4.md | 0.04 |
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
 | D. G. TEODOSIO | <!--enlace-->                                                           | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
