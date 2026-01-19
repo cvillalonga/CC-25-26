@@ -16,8 +16,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | D. G. TEODOSIO | https://github.com/Teodosiodg2002/CultureMap/blob/main/docs/hitos/hito5.md | https://culturemap-app.up.railway.app |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--enlace--> |
 | G. A. PABLO | https://github.com/pablovegood/Alejandria/blob/Hito5/documentacion/Hito5/README.md | https://alejandria.fly.dev |
-| G. R. MANUEL | 
-https://staytrack-frontend-m4hf.onrender.com/                                                           | https://github.com/Manuelgruiz/StayTrack |
+| G. R. MANUEL | https://staytrack-frontend-m4hf.onrender.com/                                                           | https://github.com/Manuelgruiz/StayTrack |
 | G. G. ANDRES | <!--enlace-->                                                           | <!--enlace--> |
 | G. R. CARLOS ALBERTO | <!--enlace-->                                                           | <!--enlace--> |
 | H. V. RAUL NASSIB | <!--enlace-->                                                           | <!--enlace--> |
