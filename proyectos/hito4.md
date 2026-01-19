@@ -27,7 +27,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. MICHAEL | [AI-Business-Model-Canvas](https://github.com/michael1702/AI-Business-Model-Canvas/blob/main/docs/hito4.md)                                                          | 1.3 |
 | M. ZAKARIA | <!--enlace-->                                                           | <!--versión--> |
 | M. CHAIMAE | <!--enlace-->                                                           | <!--versión--> |
-| M. S. DAVID | <!--enlace-->                                                           | <!--versión--> |
+| M. S. DAVID | [README general](https://github.com/davidmunozsanchez/alert_manager/blob/main/README.md)                                                           | 4.0.0 |
 | P. C. BENIGNO JOAQUIN | https://github.com/benipr14/CC_Benigno_Parra/tree/main/Hitos/Hito4                                                         | 1.0 |
 | P. FLAVIO FILIPPO | ConservatoryManagementSystem: https://github.com/Fjavio/CC_Flavio_project   | 4.0 |
 | P. HENDRIK MAXIMILIAN | https://github.com/hendrikmp/CC-Project-HP/blob/main/docs/milestone4.md | 0.3.0 |

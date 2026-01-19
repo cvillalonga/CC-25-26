@@ -28,7 +28,7 @@ https://staytrack-frontend-m4hf.onrender.com/                                   
 | M. MICHAEL | [AI-Business-Model-Canvas](https://github.com/michael1702/AI-Business-Model-Canvas/blob/main/docs/hito5.md)                                                        | 1.4 |
 | M. ZAKARIA | <!--enlace-->                                                           | <!--enlace--> |
 | M. CHAIMAE | <!--enlace-->                                                           | <!--enlace--> |
-| M. S. DAVID | <!--enlace-->                                                           | <!--enlace--> |
+| M. S. DAVID | [README general](https://github.com/davidmunozsanchez/alert_manager/blob/main/README.md)                                                          | [http://92.5.63.106/alerts/](http://92.5.63.106/alerts/) |
 | P. C. BENIGNO JOAQUIN | https://github.com/benipr14/CC_Benigno_Parra/blob/main/Hitos/Hito%205/Hito5.md                                                         | 1.0 |
 | P. FLAVIO FILIPPO | <!--enlace-->                                                           | <!--enlace--> |
 | P. HENDRIK MAXIMILIAN | https://github.com/hendrikmp/CC-Project-HP/blob/main/docs/milestone5.md | 0.4.0 |
