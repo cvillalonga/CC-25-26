@@ -34,7 +34,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. N. DANIEL | <!--enlace-->                                                           | <!--enlace--> |
 | R. A. YADIRA | <!--enlace-->                                                           | <!--enlace--> |
 | R. M. JULIO CESAR | <!--enlace-->                                                           | <!--enlace--> |
-| S. NIKLAS | <!--enlace-->                                                           | <!--enlace--> |
+| S. NIKLAS | [<!--enlace-->](https://github.com/niklas3739/ExpenseTracker/blob/main/docs/hito05.md)                                                           | <!--enlace--> |
 | S. TIM | <!--enlace--> https://github.com/Tim16112001/TapasMap-Granada/blob/59c8e9a45da242a68bc71461aeca2da3d920221f/docs/hito5.md| <!--enlace--> |
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--enlace--> |
 | T. ANAS | <!--enlace-->                                                           | <!--enlace--> |
