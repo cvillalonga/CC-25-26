@@ -25,7 +25,7 @@ https://staytrack-frontend-m4hf.onrender.com/                                   
 | H. HAOWEI | https://github.com/KaiTardor/CC_Hamari/blob/main/docs/hito5.md     | https://hamari-backend.onrender.com |
 | K. IASON | https://github.com/arg0n4ut/Viaje-Ya/blob/main/docs-milestones/H5.md | https://viaje-ya.onrender.com/ui |
 | L. L. WILLIAM | <!--enlace-->                                                           | <!--enlace--> |
-| M. MICHAEL | <!--enlace-->                                                           | <!--enlace--> |
+| M. MICHAEL | [AI-Business-Model-Canvas](https://github.com/michael1702/AI-Business-Model-Canvas/blob/main/docs/hito5.md)                                                        | 1.4 |
 | M. ZAKARIA | <!--enlace-->                                                           | <!--enlace--> |
 | M. CHAIMAE | <!--enlace-->                                                           | <!--enlace--> |
 | M. S. DAVID | <!--enlace-->                                                           | <!--enlace--> |
