@@ -28,7 +28,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. ZAKARIA | <!--enlace-->                                                           | <!--enlace--> |
 | M. CHAIMAE | <!--enlace-->                                                           | <!--enlace--> |
 | M. S. DAVID | <!--enlace-->                                                           | <!--enlace--> |
-| P. C. BENIGNO JOAQUIN | <!--enlace-->                                                           | <!--enlace--> |
+| P. C. BENIGNO JOAQUIN | https://github.com/benipr14/CC_Benigno_Parra/blob/main/Hitos/Hito%205/Hito5.md                                                         | 1.0 |
 | P. FLAVIO FILIPPO | <!--enlace-->                                                           | <!--enlace--> |
 | P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--enlace--> |
 | P. N. DANIEL | <!--enlace-->                                                           | <!--enlace--> |
