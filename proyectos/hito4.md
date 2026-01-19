@@ -9,7 +9,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | A. S. JESUS | <!--enlace-->                                                           | <!--versión--> |
 | B. A. MARIO | <!--enlace-->                                                           | <!--versión--> |
 | C. C. FRANCISCO DE ASIS | <!--enlace-->                                                           | <!--versión--> |
-| C. R. JORGE ARLEY | <!--enlace-->                                                           | <!--versión--> |
+| C. R. JORGE ARLEY | [DexoApp hito4](https://github.com/jorgekast18/Dexo-Backend/blob/main/docs/Hito4.md)                                                           | 1.1.0 |
 | C. F. LORENA | <!--enlace-->                                                           | <!--versión--> |
 | C. BO | <!--enlace-->                                                           | <!--versión--> |
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
