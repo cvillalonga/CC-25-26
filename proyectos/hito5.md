@@ -12,7 +12,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. R. JORGE ARLEY | [DexoApp hito5](https://github.com/jorgekast18/Dexo-Backend/blob/main/docs/Hito5.md)| [App Desplegada](http://34.201.26.69:8080) Microservicio Auth: Puerto 8080, Microservicio Transactions: Puerto 8081  |
 | C. F. LORENA | <!--enlace-->                                                           | <!--enlace--> |
 | C. BO | <!--enlace-->                                                           | <!--enlace--> |
-| C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--enlace--> |
+| C. M. XIMENA STEFANIA | https://github.com/XimenaCor/IWillDoIt/blob/main/README.md                                                           | v1.0.0 |
 | D. G. TEODOSIO | <!--enlace-->                                                           | <!--enlace--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--enlace--> |
 | G. A. PABLO | https://github.com/pablovegood/Alejandria/blob/Hito5/documentacion/Hito5/README.md | https://alejandria.fly.dev |
