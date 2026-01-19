@@ -31,7 +31,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. C. BENIGNO JOAQUIN | https://github.com/benipr14/CC_Benigno_Parra/tree/main/Hitos/Hito4                                                         | 1.0 |
 | P. FLAVIO FILIPPO | <!--enlace-->                                                           | <!--versión--> |
 | P. HENDRIK MAXIMILIAN | <!--enlace-->                                                           | <!--versión--> |
-| P. N. DANIEL | <!--enlace-->                                                           | <!--versión--> |
+| P. N. DANIEL | https://github.com/danielb113d1a/despliegueAppCC                                                           | v4.0 |
 | R. M. JULIO CESAR | <[!--enlace--](https://github.com/Juliorubiodev/Inku/blob/main/docs/documentacion_hitos/Hito4.md)>                                                           | <!1.0> |
 | S. NIKLAS | https://github.com/niklas3739/ExpenseTracker/blob/main/docs/hito04.md                                                           | <!--versión--> |
 | S. TIM | <!--enlace-->  https://github.com/Tim16112001/TapasMap-Granada/blob/c9f00f9496b143e96872976a41ae4985cf3aaf55/docs/hito4.md | <!--versión--> |
