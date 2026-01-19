@@ -13,7 +13,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. F. LORENA | <!--enlace-->                                                           | <!--enlace--> |
 | C. BO | <!--enlace-->                                                           | <!--enlace--> |
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--enlace--> |
-| D. G. TEODOSIO | <!--enlace-->                                                           | <!--enlace--> |
+| D. G. TEODOSIO | https://github.com/Teodosiodg2002/CultureMap/blob/main/docs/hitos/hito5.md | https://culturemap-app.up.railway.app |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--enlace--> |
 | G. A. PABLO | https://github.com/pablovegood/Alejandria/blob/Hito5/documentacion/Hito5/README.md | https://alejandria.fly.dev |
 | G. R. MANUEL | 

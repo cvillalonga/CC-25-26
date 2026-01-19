@@ -13,7 +13,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. F. LORENA | <!--enlace-->                                                           | <!--versión--> |
 | C. BO | https://github.com/tccbabc/CC-proyecto-2025-2026/blob/main/docs/hito4.md | 0.04 |
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--versión--> |
-| D. G. TEODOSIO | <!--enlace-->                                                           | <!--versión--> |
+| D. G. TEODOSIO | https://github.com/Teodosiodg2002/CultureMap/blob/main/docs/hitos/hito4.md                                                          | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | G. A. PABLO | https://github.com/pablovegood/Alejandria/blob/main/documentacion/Hito4/README.md | v1.0 |
 | G. R. MANUEL | https://github.com/Manuelgruiz/StayTrack/tree/master                                                           | 3.0.0 |
