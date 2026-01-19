@@ -19,7 +19,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. R. MANUEL | https://github.com/Manuelgruiz/StayTrack                                                          | 0.0.0 |
 | G. L. FELIPE | <!--enlace-->                                                           | <!--versión--> |
 | G. R. CARLOS ALBERTO | https://github.com/CarlosGutierrezR/passcheck-api/blob/main/docs/hito1.md|<!--version--> |
-| H. V. RAUL NASSIB |  [Piso1] (https://github.com/r-nassib/piso1/blob/main/docs/hito1.md)                                                         | <!--versión--> |
+| H. V. RAUL NASSIB | [Piso1] (https://github.com/r-nassib/piso1/blob/main/docs/hito1.md)                                                         | <!--versión--> |
 | H. C. ERWIN ANDREI | <!--enlace-->                                                           | <!--versión--> |
 | H. HAOWEI | https://github.com/KaiTardor/CC_Hamari/blob/main/docs/hito1.md          |  0.1 |
 | K. IASON | <!--enlace--> https://github.com/arg0n4ut/Viaje-Ya                                                          | <!--versión-->0.1.0 |
